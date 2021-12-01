@@ -5,7 +5,7 @@ Authentication system that combines two biometric fators: voice and hand geometr
 
 Developped with PyQt5 for **Biometry Course** (1st Year - 1st Semester)
 
-Theme : To be defined
+Theme : Auth System based on Hand Geometry & Voice Recognition
 
 ### Development Team:
       > Maria Rocha
